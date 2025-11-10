@@ -7,7 +7,7 @@ Backend
 2. Install dependencies:
    npm install
    3.Create a `.env` file and add your MongoDB connection string and a JWT secret:
-   MONGO_URI=YOUR_MONGO_DB_URI
+   MONGO_URI="mongodb://localhost:27017/mini_project"
    JWT_SECRET=YOUR_JWT_SECRET
 3. Start the server:
    npm start
