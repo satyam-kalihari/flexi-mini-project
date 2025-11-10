@@ -21,3 +21,4 @@ Frontend
 3. Start the development server
    npm run dev
 # flexi-mini-project
+# flexi-mini-project
